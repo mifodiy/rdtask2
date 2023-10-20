@@ -1,0 +1,32 @@
+.category-header__name,
+.category__name {
+  width: 40%;
+}
+
+.category-header__active,
+.category__active {
+  width: 30%;
+}
+
+.category-header__archive,
+.category__archive {
+  width: 30%;
+}
+
+.category__item {
+  display: flex;
+  background-color:rgb(149, 144, 218);
+  margin-bottom: 10px;
+}
+
+.category__name {
+  display: flex;
+}
+
+.category__name span {
+  margin-left: 15px;
+}
+
+.category-header {
+  margin-top: 50px;
+}
